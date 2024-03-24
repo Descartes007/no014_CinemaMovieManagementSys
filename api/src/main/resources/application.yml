@@ -3,10 +3,10 @@ server:
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/graduation_my_movie?characterEncoding=utf8&serverTimezone=UTC
+    url: jdbc:mysql://localhost:3306/no014_movie?characterEncoding=utf8&serverTimezone=UTC
     # 你的账号和密码
     username: root
-    password: 1025
+    password: 123456
   cache:
     redis:
       #使用前缀
